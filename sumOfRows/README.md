@@ -21,4 +21,6 @@ a multidimensional array with the dimensions of **m x n** (m = rows, n = columns
 #### Sample Output
 {10,40,65} <-- an integer array
 
+#### Solution
+
 ![image](https://raw.githubusercontent.com/al1s/401-prework-assignments/addSumOfRows/sumOfRows/screenshot_sumofrows.gif)
