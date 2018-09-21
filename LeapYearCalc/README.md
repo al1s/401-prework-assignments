@@ -12,5 +12,8 @@ on every year that is evenly divisible by 4
     unless the year is also evenly divisible by 400
 ```
   
-For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 2000 is.`
+For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 2000 is.
+
+#### Solution:
+
 ![image](https://raw.githubusercontent.com/al1s/401-prework-assignments/addLeapYCalc/LeapYearCalc/screenshot_leapYCalc.png)
