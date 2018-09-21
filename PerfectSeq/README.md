@@ -25,4 +25,8 @@ Yes
 #### Explanation
 
 1 _ 3 _ 2 = 6 && 1 + 3 + 2 = 6
-![image](https://raw.githubusercontent.com/al1s/401-prework-assignments/addPerfectSeq/PerfectSeq/screenshot_sumofrows.gif)
+
+#### Solution
+
+![image](https://raw.githubusercontent.com/al1s/401-prework-assignments/addPerfectSeq/PerfectSeq/screenshot_perfSeq.gif)
+
