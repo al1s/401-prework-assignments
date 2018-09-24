@@ -26,3 +26,5 @@ An array of integers, and the number chosen.
 16
 
 #### Solution
+
+![image](https://raw.githubusercontent.com/al1s/401-prework-assignments/arrMaxRes/ArrayMax/screenshot_arrMax.gif)
